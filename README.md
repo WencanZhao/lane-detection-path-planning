@@ -22,3 +22,7 @@ I deliberately chose classical methods instead of a lightweight CNN:
 - Integrate CNN for robustness
 - Better horizon detection under light variation
 - Combine with vehicle dynamics models
+
+## Results (sample)
+![lanes](outputs/lanes.jpg)
+
