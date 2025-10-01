@@ -24,5 +24,6 @@ I deliberately chose classical methods instead of a lightweight CNN:
 - Combine with vehicle dynamics models
 
 ## Results (sample)
-![lanes](outputs/lanes.jpg)
+<img src="outputs/lanes.jpg" width="500">
+
 
